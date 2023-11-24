@@ -18,7 +18,7 @@ include 'header.php';
                         <div class="content-box">
                             <div class="experience-inner">
                                 <figure class="logo-imgag"><img src="assets/images/icons/logo-1.png" alt=""></figure>
-                                <div class="text">30 Years</div>
+                                <div class="text">35 Years</div>
                                 <span>Experience</span>
                             </div>
                             <h2>Study In <span>Recognized</span> Universities!...</h2>
